@@ -1,6 +1,6 @@
 # Docker and ECS Immersion Day
 
-## Working Environment ##
+## Working Environment..
 
 ### Cloud9
 We'll start by setting up a Cloud9 which is an EC2 instance accessible via a browser-based IDE and Terminal. Being backed by a dedicated Linux machine, containers run right on these Cloud9 instances when you use the docker commands.
